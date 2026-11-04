@@ -1,0 +1,11 @@
+{
+  "extName": { "message": "JDAM Clicker " },
+  "extDesc": { "message": "点击任何地方 — 投下炸弹！" },
+  "btnDrop": { "message": "投下炸弹" },
+  "logToggle": { "message": "日志模式 (F12)" },
+  "hint": { "message": "点击按钮 → 点击页面任意位置 → 爆炸。" },
+  "statusActive": { "message": "正在激活..." },
+  "statusOk": { "message": "OK: 已激活" },
+  "statusErr": { "message": "无法在此页面激活" },
+  "langLabel": { "message": "语言" }
+}

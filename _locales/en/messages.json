@@ -1,0 +1,11 @@
+{
+  "extName": { "message": "JDAM Clicker " },
+  "extDesc": { "message": "Click anywhere — drop a bomb!" },
+  "btnDrop": { "message": "DROP BOMB" },
+  "logToggle": { "message": "Logging mode (F12)" },
+  "hint": { "message": "Click the button → click anywhere on the page → boom." },
+  "statusActive": { "message": "Activating..." },
+  "statusOk": { "message": "OK: Active" },
+  "statusErr": { "message": "Failed to activate on this page" },
+  "langLabel": { "message": "Language" }
+}

@@ -1,0 +1,11 @@
+{
+  "extName": { "message": "JDAM Clicker " },
+  "extDesc": { "message": "Кликни в любую точку — прилетит бомба!" },
+  "btnDrop": { "message": "СБРОСИТЬ БОМБУ" },
+  "logToggle": { "message": "Режим логирования (F12)" },
+  "hint": { "message": "Нажми кнопку → кликни в любую точку страницы → бум." },
+  "statusActive": { "message": "Активация..." },
+  "statusOk": { "message": "OK: Активно" },
+  "statusErr": { "message": "Не удалось активировать на этой странице" },
+  "langLabel": { "message": "Язык" }
+}
