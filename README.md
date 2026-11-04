@@ -1,7 +1,8 @@
 # JDAM Clicker
 
-![JavaScript](https://img.shields.io/badge/JavaScript-86%25-yellow?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-86%25-yellow?style=flat-square&logo=javascript)         ⁧
 ![HTML](https://img.shields.io/badge/HTML-13%25-orange?style=flat-square&logo=html5)
+
 [![Скачать](https://img.shields.io/badge/Скачать-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/elsan97/JDAM-extension/releases/tag/1.0.0)
 
 Слушай, тебе когда-нибудь хотелось просто взять и скинуть КАБ на этот гребаный интерфейс? 
