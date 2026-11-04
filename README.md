@@ -31,7 +31,7 @@
 <summary><b>🇷🇺 Русский (Russian)</b></summary>
 <br>
 
-> [!WARNING]
+> !WARNING
 > **💥 Осторожно, оружие массового поражения (интерфейсов)**
 >
 > Это расширение создано для фана и не несет никакой реальной угрозы. Но оно **ломает привычный вид сайтов** и может вызвать привыкание.
@@ -71,7 +71,7 @@ MIT. Делай что хочешь. Но если сломаешь себе б�
 <summary><b>🇬🇧 English</b></summary>
 <br>
 
-> [!WARNING]
+> !WARNING
 > **💥 Caution: Weapon of Mass (UI) Destruction**
 >
 > This extension is made for fun and poses no real threat. However, it **breaks the usual look of websites** and can be addictive.
@@ -111,7 +111,7 @@ MIT. Do whatever you want. But if you break your browser — that's your problem
 <summary><b>🇨🇳 中文 (Chinese)</b></summary>
 <br>
 
-> [!WARNING]
+> !WARNING
 > **💥 警告：大规模（UI）毁灭性武器**
 >
 > 此扩展程序仅供娱乐，不构成任何实际威胁。但它**会破坏网站的正常外观**，且容易上瘾。
