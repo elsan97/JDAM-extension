@@ -1,41 +1,64 @@
-# JDAM Clicker
+<div align="center">
+  <h1> JDAM Clicker</h1>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-86%25-yellow?style=flat-square&logo=javascript)         ⁧
-![HTML](https://img.shields.io/badge/HTML-13%25-orange?style=flat-square&logo=html5)
+  <p><strong>Кликни в любую точку — прилетит авиабомба. Работает на любых сайтах.</strong></p>
 
-[![Скачать](https://img.shields.io/badge/Скачать-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/elsan97/JDAM-extension/releases/tag/1.0.0)
+  <a href="https://developer.chrome.com/docs/extensions/"><img src="https://img.shields.io/badge/Chrome-Manifest%20V3-blue?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API"><img src="https://img.shields.io/badge/Web%20Audio-API-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+  <a href="https://github.com/elsan97/JDAM-extension/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" /></a>
+  <a href="https://github.com/elsan97/JDAM-extension/releases"><img src="https://img.shields.io/github/v/release/elsan97/JDAM-extension?style=for-the-badge&color=success" /></a>
+  
+  <br/>
+  <br/>
 
-Слушай, тебе когда-нибудь хотелось просто взять и скинуть КАБ на этот гребаный интерфейс? 
-Вот. Теперь можешь.
+  <a href="https://github.com/elsan97/JDAM-extension/releases/latest">
+    <img src="https://img.shields.io/badge/⬇%20Download%20Extension-Latest%20Release-0a84ff?style=for-the-badge" />
+  </a>
+</div>
 
-Это расширение для браузера, которое позволяет кликнуть в ЛЮБУЮ точку на ЛЮБОМ сайте, и туда прилетит авиабомба с реалистичным звуком и анимацией. Работает даже на душных сайтах вроде YouTube или DeepSeek, которые пытаются сломать картинку своими CSS-стилями. Мы их обошли (привет Shadow DOM).
+<div align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-86%25-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/HTML-13%25-orange?style=flat-square&logo=html5" />
+  <img src="https://img.shields.io/badge/Python-1%25-blue?style=flat-square&logo=python" />
+  <br/>
+  <sub>Ну и чуть-чуть CSS, чтобы это всё не разваливалось.</sub>
+</div>
 
-Хватит терпеть кривой дизайн, навязчивую рекламу и тупые баннеры. Просто сбрось бомбу. 
+---
 
-## А чё оно умеет?
-*   **Титановая точность.** Бомба падает ровно туда, куда ты ткнул мышкой. Без сдвигов и телепортаций.
-*   **Наклон как у настоящей КАБ.** Падает сверху, красиво заваливается набок до 90 градусов.
-*   **Взрыв.** Низкий, раскатистый бас (генерируется через WebAudio, так что mp3-файлы тащить не пришлось) + долгий визуальный эффект.
-*   **Пофиг на сайт.** Тряска экрана и взрыв изолированы внутри оверлея, так что страница не сломается.
-*   **Локализация.** Есть English, Русский и 中文 (для любителей смотреть аниме и слушать Фараона).
-*   **Режим дебага.** Галочка в меню, которая сыпет в F12 подробные логи, куда упало и как взорвалось.
+> [!WARNING]
+> **💥 Осторожно, оружие массового поражения (интерфейсов)**
+>
+> Это расширение создано для фана и не несет никакой реальной угрозы. Но оно **ломает привычный вид сайтов** и может вызвать привыкание.
+>
+> - 💣 **Бомба падает строго по клику** (благодаря Shadow DOM, даже на строгих сайтах вроде YouTube).
+> - 🔊 **Звук взрыва синтезируется на лету** (не нужно таскать тяжелые mp3-файлы).
+> - 🌐 **Поддержка языков**: EN / RU / 中文.
+> - 🛠 **Режим дебага**: Галочка в меню включает подробные логи в F12.
+>
+> Если сайт всё-таки сломался (такое бывает на очень плохо сверстанных страницах) — просто обнови вкладку.
 
-## Как установить (если ты не прогер)
-1. Скачай `.zip` архив из раздела **Releases** (справа на странице).
+---
+
+##  Как установить (если ты не прогер)
+
+1. Скачай `.zip` архив из раздела **[Releases](https://github.com/elsan97/JDAM-extension/releases)** (кнопка выше).
 2. Распакуй его в любую папку на компе (и не удаляй её потом, а то расширение отвалится).
 3. Открой в браузере `chrome://extensions/` (или `edge://extensions/`).
 4. Включи тумблер **«Режим разработчика»** (Developer mode).
 5. Нажми **«Загрузить распакованное расширение»** и выбери эту папку.
-6. Иди на любой сайт, жми на иконку и выбирай цель.
+6. Иди на любой сайт, жми на иконку 💣 и выбирай цель.
 
-## Как собрать самому (для тех, кто умеет читать код)
+##  Как собрать самому (для тех, кто умеет читать код)
+
 Если ты хочешь залить это себе локально:
 ```bash
-git clone https://github.com/твой-ник/jdam-clicker.git
+git clone https://github.com/elsan97/JDAM-extension.git
 ```
-Дальше кидаешь папку в chrome://extensions/.
+Дальше кидаешь папку в chrome://extensions/ и кайфуешь!
 
- Лицензия
+Лицензия
 MIT. Делай что хочешь. Но если сломаешь себе браузер — это твои проблемы.
 
 P.S. Если тебя забанят на каком-нибудь сайте за то, что ты скинул бомбу на их логотип — мы тут ни при чем.
