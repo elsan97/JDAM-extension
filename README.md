@@ -1,5 +1,9 @@
 # JDAM Clicker
 
+![JavaScript](https://img.shields.io/badge/JavaScript-86%25-yellow?style=flat-square&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-13%25-orange?style=flat-square&logo=html5)
+![Python](https://img.shields.io/badge/Python-1%25-blue?style=flat-square&logo=python)
+
 Слушай, тебе когда-нибудь хотелось просто взять и скинуть КАБ на этот гребаный интерфейс? 
 Вот. Теперь можешь.
 
