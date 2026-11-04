@@ -2,7 +2,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-86%25-yellow?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-13%25-orange?style=flat-square&logo=html5)
-![Python](https://img.shields.io/badge/Python-1%25-blue?style=flat-square&logo=python)
+[![Скачать](https://img.shields.io/badge/Скачать-v1.0.0-blue?style=for-the-badge&logo=github)](https://github.com/elsan97/JDAM-extension/releases/tag/1.0.0)
 
 Слушай, тебе когда-нибудь хотелось просто взять и скинуть КАБ на этот гребаный интерфейс? 
 Вот. Теперь можешь.
