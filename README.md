@@ -20,7 +20,6 @@
   <br/>
   <img src="https://img.shields.io/badge/JavaScript-86%25-yellow?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/HTML-13%25-orange?style=flat-square&logo=html5" />
-  <img src="https://img.shields.io/badge/Python-1%25-blue?style=flat-square&logo=python" />
   <br/>
   <sub>Ну и чуть-чуть CSS, чтобы это всё не разваливалось.</sub>
 </div>
